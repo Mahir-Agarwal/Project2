@@ -1,0 +1,20 @@
+#cen{
+  margin: auto;
+  width: 50%;
+  
+  border-radius: 50px;
+  position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: rgb(112, 198, 230);
+    box-shadow: 1px 0px 15px 20px rgb(156, 196, 211);
+
+
+  
+}
+#body{
+    background-color: black;
+}
